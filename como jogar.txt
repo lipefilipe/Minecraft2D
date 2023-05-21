@@ -1,0 +1,23 @@
+Ola alunos e professor hoje vou te ensinar alguns comandos básicos para se divertir construindo na minha versão 2D do minecraft. Vamos lá!
+
+        Use as setas do teclado para se mover. A seta para cima faz seu personagem avançar, a seta para baixo faz ele ir para baixo, a seta para a esquerda faz ele virar para a esquerda e a seta para a direita faz ele virar para a direita. Simples assim
+
+  Alterando tamanho dos seus blocos
+        para você o tamanho dos blocos, use as seguintes teclas:
+            Pressione "P" junto com a tecla "Shift" para aumentar o tamanho dos blocos. O tamanho do bloco é exibido na parte superior da tela.
+            aperte "M" junto com a tecla "Shift" para diminuir o tamanho dos blocos. O tamanho do bloco também aparece na parte de cima da tela.
+
+    Colocando blocos
+        Use as seguintes teclas para colocar os blocos:
+            aperte "W" colocar um bloco de tijolo.
+            aperte "G" colocar blocos de terra.
+            aperte "L" para colocar um bloco verde claro.
+            aperte "T" para colocar um tronco de madeira.
+            aperte "R" para colocar um bloco vermelho.
+            aperte "Y" para colocar um bloco de tijolo amarelo.
+            aperte "D" para colocar um bloco verde escuro.
+            aparte "C" para colocar um bloco de nuvem.
+
+agora vocês já devem saber como começar a jogar o Minecraft. Divirta-se
+
+- Filipe de azevedo maciel gomes
