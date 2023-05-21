@@ -127,6 +127,12 @@ if(e.shiftKey && keyPressed == '77')
 		console.log("c");
 	}
 	
+	if(keyPressed == '113')
+	{
+		newImage('null.png'); 
+		console.log("q");
+	}
+	
 }
 function up()
 {
